@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pasquale Cappa Spina
+- 👀 I’m interested in Web Development and App Mobile
+- 🌱 I’m currently learning everything that can be useful to me
+- 💞️ I’m looking to collaborate on laravel projects
+- 📫 How to reach me: https://pasqualecappaspina.com
